@@ -1,4 +1,4 @@
-import 'package:cli/cli.dart' as cli;
+import 'package:ferry_issue/cli.dart' as cli;
 import 'package:gql_http_link/gql_http_link.dart';
 import 'package:ferry/ferry.dart';
 

@@ -1,6 +1,6 @@
 module.exports = {
   schema: 'https://user.backend.dev.uptraded.app/graphql',
-  documents: ['**/*.{gql,graphql,js,ts,jsx,tsx}'],
+  documents: ['**/*.{gql,graphql}'],
   extensions: {
     endpoints: {
       default: {
